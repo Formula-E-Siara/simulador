@@ -1,0 +1,1 @@
+biblioteca de: https://pypi.org/project/pyPS4Controller/
