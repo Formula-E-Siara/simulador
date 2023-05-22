@@ -1,4 +1,4 @@
-# eufs_modified
+# simulador
 
 https://gitlab.com/eufs/eufs_sim/-/wikis/Getting-Started-Guide
 
